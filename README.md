@@ -6,6 +6,13 @@ A JSON database made from scratch using Golang.
 
 This project is a JSON database built with Golang, featuring mutexes for data integrity handling. It utilizes external packages and struct methods to manage user data efficiently.
 
+[JSON Db (Golang)-1](https://github.com/sahiljagtap08/database-made-with-golang/assets/95201277/e10da04d-752e-498c-b20a-b09b033ad59e)
+
+![JSON Db (Golang)-2](https://github.com/sahiljagtap08/database-made-with-golang/assets/95201277/b311cf95-3d17-4d23-9ea9-94fbbcc5f833)
+
+PDF format:
+[JSON Db (Golang).pdf](https://github.com/user-attachments/files/15904949/JSON.Db.Golang.pdf)
+
 ## Highlights
 
 - **A database in Golang 🛠️**
@@ -16,7 +23,7 @@ This project is a JSON database built with Golang, featuring mutexes for data in
 - **Imported a logger package for debugging 🪵** --> [https://github.com/jcelliott/lumber](url)
 - **You can Extend the project to create APIs and integrate with other projects 🚀**
 
-## Key Insights
+## Key Insights!
 
 - **Struct methods in Golang** allow for encapsulation and organization of data and functions within a single unit 🏗️
 - **Mutexes** are crucial for handling concurrent access to data, ensuring data integrity and preventing race conditions 🚧
