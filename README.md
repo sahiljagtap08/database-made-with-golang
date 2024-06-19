@@ -13,7 +13,7 @@ This project is a JSON database built with Golang, featuring mutexes for data in
 - **Defined struct for users with various fields 🧑‍💼**
 - **Used external packages like os and sync 📦**
 - **Created functions for writing, reading, and deleting users 📝**
-- **Imported a logger package for debugging 🪵**
+- **Imported a logger package for debugging 🪵** --> [https://github.com/jcelliott/lumber](url)
 - **You can Extend the project to create APIs and integrate with other projects 🚀**
 
 ## Key Insights
